@@ -269,7 +269,7 @@ function _bdmsRenderDateGrid(instance, focusDate) {
 
     button.addEventListener('click', function () {
       if (this.disabled) return;
-      instance.input.value = dateValue;
+      instance.input.value = this.getAttribute('data-date') || '';
       instance.input.dispatchEvent(new Event('input', { bubbles: true }));
       instance.input.dispatchEvent(new Event('change', { bubbles: true }));
       _bdmsRefreshDateTrigger(instance);
