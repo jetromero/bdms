@@ -187,7 +187,7 @@ $conn->close();
     </div>
   </main>
 
-  <script src="assets/bdms.js"></script>
+  <script src="assets/bdms.js?v=20260527"></script>
   <script>
     (function () {
       if (typeof bdmsToast === 'function') {

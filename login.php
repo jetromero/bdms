@@ -448,7 +448,7 @@ if (isset($_SESSION['error'])) {
         </div>
     </div>
 
-    <script src="assets/bdms.js"></script>
+    <script src="assets/bdms.js?v=20260527"></script>
     <script>
         <?php if ($login_error_message !== null): ?>
         (function () {

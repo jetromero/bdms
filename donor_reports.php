@@ -148,6 +148,6 @@ $result = $conn->query($sql);
   <div class="signature-print">Organizer: Mr. Bernie Palacio</div>
 </main>
 
-<script src="assets/bdms.js"></script>
+<script src="assets/bdms.js?v=20260527"></script>
 </body>
 </html>

@@ -285,7 +285,7 @@ $result = $conn->query($sql);
     </div>
   </div>
 
-  <script src="assets/bdms.js"></script>
+  <script src="assets/bdms.js?v=20260527"></script>
   <script>
     (function () {
       var p = new URLSearchParams(window.location.search);

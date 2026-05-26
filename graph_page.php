@@ -60,7 +60,7 @@ $conn->close();
   </div>
 </main>
 
-<script src="assets/bdms.js"></script>
+<script src="assets/bdms.js?v=20260527"></script>
 <script>
   const ctx = document.getElementById('bloodChart').getContext('2d');
   new Chart(ctx, {

@@ -272,6 +272,6 @@ require_once __DIR__ . '/bdms_nav.php';
     <?php endif; ?>
   </main>
 
-  <script src="assets/bdms.js"></script>
+  <script src="assets/bdms.js?v=20260527"></script>
 </body>
 </html>

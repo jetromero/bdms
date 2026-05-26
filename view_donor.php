@@ -178,6 +178,6 @@ $fields = [
   </script>
   <?php endif; ?>
 
-  <script src="assets/bdms.js"></script>
+  <script src="assets/bdms.js?v=20260527"></script>
 </body>
 </html>

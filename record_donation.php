@@ -494,7 +494,7 @@ require_once __DIR__ . '/bdms_nav.php';
   </form>
 </main>
 
-<script src="assets/bdms.js"></script>
+<script src="assets/bdms.js?v=20260527"></script>
 <script>
 (function () {
   const donorsMeta = <?php echo json_encode(
